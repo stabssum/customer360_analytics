@@ -62,7 +62,7 @@ The dynamic analytical dashboard generates the following key visualizations and 
 3. Account Age vs. Forecasted CLV (Scatter Plot):
    * Plots customer account tenure against forecasted Customer Lifetime Value across clusters.
    * Demonstrates how customer loyalty and account age impact long-term revenue predictions.
-   ![Customer 360 Dashboard Insights](OUTPUT.png)
+   ![Customer 360 Dashboard Insights](output.png)
    ---
 
 ## ⚙️ How to Run
