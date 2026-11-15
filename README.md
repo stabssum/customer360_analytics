@@ -30,7 +30,7 @@ customer360_analytics/
 ├── customer_analytics.csv               # Raw Dataset
 ├── customer_segmentation_analysis.ipynb # Complete Analytics & ML Notebook
 └── README.md                            # Project Documentation
----
+
 
 ## 💡 Customer 360 API Usage Example
 
@@ -47,7 +47,7 @@ get_customer_360_analytics("CUST-10002")
 
 
 
----
+
 
 ## 📊 Visual Insights & Dashboard Summary
 
@@ -67,7 +67,7 @@ The dynamic analytical dashboard generates the following key visualizations and 
 
 ![Customer 360 Dashboard Insights](customer360_dashboard.png)
 
----
+
 
 ## ⚙️ How to Run
 
