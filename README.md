@@ -23,13 +23,13 @@ An end-to-end Data Science and Machine Learning project focused on **Customer Se
 * **Environment:** VS Code / Jupyter Notebook
 
 ---
+### 📂 Project Structure
 
-## 📂 Project Structure
-
-text
-├── customer_analytics.csv              # Raw Dataset
+```text
+customer360_analytics/
+├── customer_analytics.csv               # Raw Dataset
 ├── customer_segmentation_analysis.ipynb # Complete Analytics & ML Notebook
-└── README_Customer360.md               # Project Documentation
+└── README.md                            # Project Documentation
 ---
 
 ## 💡 Customer 360 API Usage Example
@@ -50,17 +50,25 @@ get_customer_360_analytics("CUST-10002")
 
 The dynamic analytical dashboard generates the following key visualizations and insights:
 
-1. Customer Volume by Cluster (Bar Chart):
-   * Shows the distribution and count of customers across different segmented clusters.
-   * Helps visualize segment population density to identify core customer bases.
+---
 
-2. Total Spend vs. Churn Risk (Box Plot / Bar Comparison):
-   * Compares customer spending behaviors between High-Risk and Low-Risk churn segments.
-   * Identifies spend thresholds that indicate potential customer attrition.
+## 📊 Visual Insights & Dashboard Summary
 
-3. Account Age vs. Forecasted CLV (Scatter Plot):
-   * Plots customer account tenure against forecasted Customer Lifetime Value across clusters.
-   * Demonstrates how customer loyalty and account age impact long-term revenue predictions.
+The dynamic analytical dashboard generates the following key visualizations and insights:
+
+### 1. Customer Volume by Cluster (Bar Chart)
+* Shows the distribution and count of customers across different segmented clusters.
+* Helps visualize segment population density to identify core customer bases.
+
+### 2. Total Spend vs. Churn Risk (Box Plot / Bar Comparison)
+* Compares customer spending behaviors between High-Risk and Low-Risk churn segments.
+* Identifies spend thresholds that indicate potential customer attrition.
+
+### 3. Account Age vs. Forecasted CLV (Scatter Plot)
+* Plots customer account tenure against forecasted Customer Lifetime Value across clusters.
+* Demonstrates how customer loyalty and account age impact long-term revenue predictions.
+
+![Customer 360 Dashboard Insights](customer360_dashboard.png)
      
 
 
