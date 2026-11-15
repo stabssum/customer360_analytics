@@ -46,9 +46,6 @@ get_customer_360_analytics("CUST-10002")
 }
 
 
-
-
-
 ## 📊 Visual Insights & Dashboard Summary
 
 The dynamic analytical dashboard generates the following key visualizations and insights:
