@@ -47,23 +47,27 @@ get_customer_360_analytics("CUST-10002")
 
 
 
+---
+
 ## 📊 Visual Insights & Dashboard Summary
 
 The dynamic analytical dashboard generates the following key visualizations and insights:
 
 ### 1. Customer Volume by Cluster (Bar Chart)
-* Shows the distribution and count of customers across different segmented clusters.
-* Helps visualize segment population density to identify core customer bases.
+* **Shows the distribution and count of customers across different segmented clusters.**
+* **Helps visualize segment population density to identify core customer bases.**
 
 ### 2. Total Spend vs. Churn Risk (Box Plot / Bar Comparison)
-* Compares customer spending behaviors between High-Risk and Low-Risk churn segments.
-* Identifies spend thresholds that indicate potential customer attrition.
+* **Compares customer spending behaviors between High-Risk and Low-Risk churn segments.**
+* **Identifies spend thresholds that indicate potential customer attrition.**
 
 ### 3. Account Age vs. Forecasted CLV (Scatter Plot)
-* Plots customer account tenure against forecasted Customer Lifetime Value across clusters.
-* Demonstrates how customer loyalty and account age impact long-term revenue predictions.
+* **Plots customer account tenure against forecasted Customer Lifetime Value across clusters.**
+* **Demonstrates how customer loyalty and account age impact long-term revenue predictions.**
 
 ![Customer 360 Dashboard Insights](customer360_dashboard.png)
+
+---
 
 ## ⚙️ How to Run
 
