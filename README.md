@@ -46,11 +46,6 @@ get_customer_360_analytics("CUST-10002")
 }
 
 
-## 📈 Visual Insights & Dashboard Summary
-
-The dynamic analytical dashboard generates the following key visualizations and insights:
-
----
 
 ## 📊 Visual Insights & Dashboard Summary
 
@@ -69,8 +64,6 @@ The dynamic analytical dashboard generates the following key visualizations and 
 * Demonstrates how customer loyalty and account age impact long-term revenue predictions.
 
 ![Customer 360 Dashboard Insights](customer360_dashboard.png)
-     
-
 
 ## ⚙️ How to Run
 
