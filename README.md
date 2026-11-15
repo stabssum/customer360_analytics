@@ -26,7 +26,7 @@ An end-to-end Data Science and Machine Learning project focused on **Customer Se
 
 ## 📂 Project Structure
 
-```text
+text
 ├── customer_analytics.csv              # Raw Dataset
 ├── customer_segmentation_analysis.ipynb # Complete Analytics & ML Notebook
 └── README_Customer360.md               # Project Documentation
@@ -35,8 +35,7 @@ An end-to-end Data Science and Machine Learning project focused on **Customer Se
 ## 💡 Customer 360 API Usage Example
 
 Query any customer ID using the master engine function:
-
-```python
+python
 # API Call
 get_customer_360_analytics("CUST-10002")
 {
@@ -45,14 +44,14 @@ get_customer_360_analytics("CUST-10002")
     "Churn Prediction": "High Risk of Churn",
     "Forecasted Next Year CLV": "$311.53"
 }
----
+
 
 ## 📈 Visual Insights & Dashboard Summary
 
 The dynamic analytical dashboard generates the following key visualizations and insights:
 
 1. Customer Volume by Cluster (Bar Chart):
-   * Shows the distribution and count of customers across different segmented clusters (e.g., Cluster 0 to Cluster 3).
+   * Shows the distribution and count of customers across different segmented clusters.
    * Helps visualize segment population density to identify core customer bases.
 
 2. Total Spend vs. Churn Risk (Box Plot / Bar Comparison):
@@ -62,8 +61,8 @@ The dynamic analytical dashboard generates the following key visualizations and 
 3. Account Age vs. Forecasted CLV (Scatter Plot):
    * Plots customer account tenure against forecasted Customer Lifetime Value across clusters.
    * Demonstrates how customer loyalty and account age impact long-term revenue predictions.
-   ![Customer 360 Dashboard Insights](output.png)
-   ---
+     
+
 
 ## ⚙️ How to Run
 
