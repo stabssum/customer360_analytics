@@ -1,6 +1,6 @@
-# Customer 360 Analytics Pipeline
+# Customer 360 Analytics and Machine Learning Pipeline
 
-An end-to-end Machine Learning pipeline for Customer Segmentation (K-Means), Churn Prediction (Random Forest), and CLV Forecasting (Linear Regression).
+An end-to-end Machine Learning pipeline for Customer Segmentation (K-Means), Churn Prediction (Random Forest), and Customer Lifetime Value (CLV)Forecasting (Linear Regression). The project forcast an interective Customer 360 Analytics API Engine and dynamical dashboard visualizations.
 
 ---
 
@@ -43,6 +43,3 @@ customer360_analytics/
 
 ---
 
-## Author
-**Umme Safrana Tabassum**  
-Aspiring Data Scientist & Machine Learning Analyst
